@@ -1,4 +1,6 @@
-# Pankajayadav113
+# Hi 👋, I'm Pankaj Yadav  
+🚀 DevOps Engineer | Cloud & Automation
+
 ## 💫 About Me:
 💻 I’m currently working on building and managing infrastructure using DevOps practices, focusing on automation and scalability.<br><br>🤝 I’m looking to collaborate on open-source projects related to DevOps, Cloud, and Infrastructure as Code (IaC).<br><br>🆘 I’m looking for help with advanced concepts in Kubernetes, CI/CD pipelines, and Cloud Architecture.<br><br>🌱 I’m currently learning Terraform, Azure, GitHub Actions, and CI/CD workflows to improve automation and deployment skills.<br><br>💬 Ask me about DevOps tools, Terraform, Azure, Git, Linux, and Cloud fundamentals.<br><br>⚡ Fun fact I enjoy automating infrastructure and optimizing deployment pipelines 🚀
 
