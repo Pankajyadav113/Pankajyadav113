@@ -8,7 +8,7 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 - ☁️ Azure Cloud Enthusiast
 - 🏗️ Infrastructure as Code using Terraform
@@ -19,54 +19,22 @@
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/pankaj-kumar--yadav
 - 💻 GitHub: https://github.com/Pankajyadav113
-- 🌍 Portfolio: **Add your Portfolio URL here**
 
 ---
 
-# 💻 Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=azure"/>
-<img src="https://skillicons.dev/icons?i=terraform"/>
-<img src="https://skillicons.dev/icons?i=docker"/>
-<img src="https://skillicons.dev/icons?i=kubernetes"/>
-<img src="https://skillicons.dev/icons?i=linux"/>
-<img src="https://skillicons.dev/icons?i=bash"/>
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=github"/>
-<img src="https://skillicons.dev/icons?i=githubactions"/>
-<img src="https://skillicons.dev/icons?i=jenkins"/>
-<img src="https://skillicons.dev/icons?i=grafana"/>
-<img src="https://skillicons.dev/icons?i=prometheus"/>
-<img src="https://skillicons.dev/icons?i=nginx"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
+## 💻 Tech Stack
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pankajyadav113&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankajyadav113&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,linux,bash,git,github,githubactions,jenkins,prometheus,grafana,nginx" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Pankajyadav113&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pankajyadav113&theme=tokyo-night&hide_border=true"/>
@@ -74,23 +42,15 @@
 
 ---
 
-# 🏆 GitHub Trophy
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Pankajyadav113&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://raw.githubusercontent.com/Pankajyadav113/Pankajyadav113/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-# 🐍 Snake Contribution
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Pankajyadav113/Pankajyadav113/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-</p>
-
----
-
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 - 🚀 DevOps Portfolio
 - ☁️ Azure Terraform Infrastructure
@@ -100,7 +60,7 @@
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 - Kubernetes
 - Helm
